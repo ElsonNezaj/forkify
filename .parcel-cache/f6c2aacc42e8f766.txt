@@ -1,11 +1,12 @@
-7631
+7633
 46/home/elson/work soni/forkify/src/img/logo.png1644221920000000000 0
-50/home/elson/work soni/forkify/src/js/controller.js1663688811958145811 0
-45/home/elson/work soni/forkify/src/js/model.js1663688992434920347 0
+50/home/elson/work soni/forkify/src/js/controller.js1663769351839465933 0
+45/home/elson/work soni/forkify/src/js/model.js1663768357525410197 0
 53/home/elson/work soni/forkify/src/js/views/helpers.js1663676458434062530 0
-56/home/elson/work soni/forkify/src/js/views/searchView.js1663681289927122515 0
-50/home/elson/work soni/forkify/src/js/views/view.js1663683003348211998 0
-42/home/elson/work soni/forkify/src/js/views1663684142125703664 1
+57/home/elson/work soni/forkify/src/js/views/previewView.js1663765144982995247 0
+56/home/elson/work soni/forkify/src/js/views/searchView.js1663758447110804422 0
+50/home/elson/work soni/forkify/src/js/views/view.js1663765085449408833 0
+42/home/elson/work soni/forkify/src/js/views1663764735583955722 1
 58/home/elson/work soni/forkify/src/sass/_searchResults.scss1644221920000000000 0
 48/home/elson/work soni/forkify/src/sass/main.scss1644221920000000000 0
 49/home/elson/work soni/forkify/src/sass/_base.scss1644221920000000000 0
@@ -1798,7 +1799,7 @@
 69/home/elson/work soni/forkify/node_modules/core-js/full/date/index.js1663598251478995967 0
 61/home/elson/work soni/forkify/node_modules/core-js/stage/3.js1663598250846977837 0
 77/home/elson/work soni/forkify/node_modules/core-js/actual/structured-clone.js1663598251851006639 0
-57/home/elson/work soni/forkify/dist/index.f7626f62.css.map1663688929301257695 0
+57/home/elson/work soni/forkify/dist/index.f7626f62.css.map1663764926485145334 0
 70/home/elson/work soni/forkify/node_modules/core-js/actual/url/index.js1663598251458995394 0
 75/home/elson/work soni/forkify/node_modules/core-js/features/regexp/match.js1663598251606999639 0
 85/home/elson/work soni/forkify/node_modules/core-js/stable/typed-array/uint16-array.js1663598252003010999 0
@@ -2144,7 +2145,7 @@
 82/home/elson/work soni/forkify/node_modules/core-js/actual/typed-array/to-sorted.js1663598251943009278 0
 84/home/elson/work soni/forkify/node_modules/core-js/features/typed-array/find-last.js1663598251298990804 0
 83/home/elson/work soni/forkify/node_modules/core-js/actual/array/virtual/includes.js1663598251434994705 0
-34/home/elson/work soni/forkify/dist1663688992558923605 1
+34/home/elson/work soni/forkify/dist1663769351995469953 1
 75/home/elson/work soni/forkify/node_modules/core-js/actual/typed-array/of.js1663598251651000902 0
 74/home/elson/work soni/forkify/node_modules/@parcel/source-map/dist/node.js1663593887350516322 0
 77/home/elson/work soni/forkify/node_modules/core-js/actual/typed-array/join.js1663598251554998147 0
@@ -2447,7 +2448,7 @@
 65/home/elson/work soni/forkify/node_modules/nth-check/lib/index.js1663593887142511051 0
 81/home/elson/work soni/forkify/node_modules/core-js/internals/use-symbol-as-uid.js1663598252027011688 0
 75/home/elson/work soni/forkify/node_modules/lmdb/node_modules/node-addon-api1663593887570521898 1
-53/home/elson/work soni/forkify/dist/icons.dfd7a6db.svg1663688929297257591 0
+53/home/elson/work soni/forkify/dist/icons.dfd7a6db.svg1663764926481145225 0
 73/home/elson/work soni/forkify/node_modules/core-js/actual/string/fixed.js1663598251314991263 0
 84/home/elson/work soni/forkify/node_modules/core-js/internals/object-keys-internal.js1663598251639000558 0
 86/home/elson/work soni/forkify/node_modules/core-js/actual/array/virtual/copy-within.js1663598251010982542 0
@@ -3084,7 +3085,7 @@
 78/home/elson/work soni/forkify/node_modules/@parcel/utils/src/getCertificate.js1663593887474519465 0
 79/home/elson/work soni/forkify/node_modules/core-js/features/regexp/to-string.js1663598251959009737 0
 87/home/elson/work soni/forkify/node_modules/core-js/actual/array/virtual/group-to-map.js1663598251414994132 0
-53/home/elson/work soni/forkify/dist/index.f7626f62.css1663688929289257380 0
+53/home/elson/work soni/forkify/dist/index.f7626f62.css1663764926481145225 0
 86/home/elson/work soni/forkify/node_modules/@jridgewell/set-array/dist/set-array.umd.js1663593887038508416 0
 81/home/elson/work soni/forkify/node_modules/core-js/internals/well-known-symbol.js1663598252043012146 0
 99/home/elson/work soni/forkify/node_modules/@parcel/optimizer-image/parcel-image.linux-x64-musl.node1663593888442543997 0
@@ -3277,7 +3278,7 @@
 68/home/elson/work soni/forkify/node_modules/@parcel/core/src/requests1663593888298540347 1
 117/home/elson/work soni/forkify/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1663593887734526053 0
 92/home/elson/work soni/forkify/node_modules/@parcel/hash/parcel-hash.linux-arm-gnueabihf.node1663593887682524735 0
-45/home/elson/work soni/forkify/dist/index.html1663688929297257591 0
+45/home/elson/work soni/forkify/dist/index.html1663764926481145225 0
 73/home/elson/work soni/forkify/node_modules/core-js/stable/object/proto.js1663598251691002049 0
 92/home/elson/work soni/forkify/node_modules/@parcel/runtime-js/src/helpers/bundle-manifest.js1663593887194512369 0
 74/home/elson/work soni/forkify/node_modules/@parcel/core/src/Environment.js1663593887858529196 0
@@ -3339,7 +3340,7 @@
 72/home/elson/work soni/forkify/node_modules/core-js/features/map/merge.js1663598251610999754 0
 113/home/elson/work soni/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1663593887526520782 0
 79/home/elson/work soni/forkify/node_modules/core-js/es/string/from-code-point.js1663598251358992525 0
-55/home/elson/work soni/forkify/dist/favicon.8b2f57bf.png1663688929305257801 0
+55/home/elson/work soni/forkify/dist/favicon.8b2f57bf.png1663764926489145441 0
 84/home/elson/work soni/forkify/node_modules/@swc/helpers/lib/_wrap_async_generator.js1663593887762526763 0
 71/home/elson/work soni/forkify/node_modules/core-js/es/object/entries.js1663598251082984607 0
 77/home/elson/work soni/forkify/node_modules/@parcel/namer-default/package.json1663593887138510949 0
@@ -3396,12 +3397,13 @@
 77/home/elson/work soni/forkify/node_modules/@parcel/workers/test/workerfarm.js1663593887654524026 0
 71/home/elson/work soni/forkify/node_modules/@parcel/packager-raw/LICENSE1663593887014507807 0
 71/home/elson/work soni/forkify/node_modules/@parcel/watcher/package.json1663593887594522506 0
+59/home/elson/work soni/forkify/src/js/views/bookmarksView.js1663769297670069812 0
 62/home/elson/work soni/forkify/node_modules/core-js/stable/json1663598251955009622 1
 88/home/elson/work soni/forkify/node_modules/core-js/internals/dom-token-list-prototype.js1663598251066984149 0
 58/home/elson/work soni/forkify/node_modules/tslib/README.md1663593887290514802 0
 134/home/elson/work soni/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/b/index.js1663593887918530716 0
 63/home/elson/work soni/forkify/node_modules/picocolors/README.md1663593887086509632 0
-53/home/elson/work soni/forkify/dist/icons.21bad73c.svg1663688929309257908 0
+53/home/elson/work soni/forkify/dist/icons.21bad73c.svg1663764926489145441 0
 93/home/elson/work soni/forkify/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts1663593888266539536 1
 69/home/elson/work soni/forkify/node_modules/core-js/full/math/expm1.js1663598251250989427 0
 63/home/elson/work soni/forkify/node_modules/core-js/actual/array1663598252047012261 1
@@ -3627,7 +3629,7 @@
 70/home/elson/work soni/forkify/node_modules/domelementtype/lib/index.js1663593887146511153 0
 76/home/elson/work soni/forkify/node_modules/core-js/features/regexp/search.js1663598251767004229 0
 73/home/elson/work soni/forkify/node_modules/core-js/actual/symbol/index.js1663598251458995394 0
-56/home/elson/work soni/forkify/dist/index.e37f48ea.js.map1663688992554923500 0
+56/home/elson/work soni/forkify/dist/index.e37f48ea.js.map1663769351995469953 0
 91/home/elson/work soni/forkify/node_modules/@parcel/packager-js/src/ScopeHoistingPackager.js1663593887478519566 0
 73/home/elson/work soni/forkify/node_modules/core-js/stable/string/match.js1663598251610999754 0
 64/home/elson/work soni/forkify/node_modules/@parcel/markdown-ansi1663593887150511254 1
@@ -3913,7 +3915,7 @@
 72/home/elson/work soni/forkify/node_modules/@parcel/workers/lib/Handle.js1663593887414517944 0
 81/home/elson/work soni/forkify/node_modules/core-js/modules/es.typed-array.fill.js1663598251178987362 0
 73/home/elson/work soni/forkify/node_modules/@parcel/compressor-raw/LICENSE1663593887014507807 0
-52/home/elson/work soni/forkify/dist/logo.726d37a8.png1663688929297257591 0
+52/home/elson/work soni/forkify/dist/logo.726d37a8.png1663764926485145334 0
 53/home/elson/work soni/forkify/node_modules/color-name1663593887042508517 1
 91/home/elson/work soni/forkify/node_modules/@babel/highlight/node_modules/chalk/templates.js1663593887206512673 0
 82/home/elson/work soni/forkify/node_modules/@swc/helpers/lib/_is_native_function.js1663593887614523012 0
@@ -5516,7 +5518,7 @@
 76/home/elson/work soni/forkify/node_modules/core-js/modules/es.reflect.set.js1663598251146986444 0
 70/home/elson/work soni/forkify/node_modules/core-js/modules/web.atob.js1663598252035011917 0
 76/home/elson/work soni/forkify/node_modules/core-js/modules/es.array.slice.js1663598251102985182 0
-57/home/elson/work soni/forkify/src/js/views/resultsView.js1663682847128433167 0
+57/home/elson/work soni/forkify/src/js/views/resultsView.js1663765385833370598 0
 88/home/elson/work soni/forkify/node_modules/caniuse-lite/data/features/resource-timing.js1663593888526546125 0
 55/home/elson/work soni/forkify/node_modules/@swc/helpers1663593888074534670 1
 82/home/elson/work soni/forkify/node_modules/@parcel/runtime-js/src/helpers/.babelrc1663593887054508821 0
@@ -6278,7 +6280,7 @@
 90/home/elson/work soni/forkify/node_modules/core-js/full/async-iterator/as-indexed-pairs.js1663598250906979559 0
 79/home/elson/work soni/forkify/node_modules/core-js/full/async-iterator/index.js1663598251478995967 0
 78/home/elson/work soni/forkify/node_modules/core-js/full/async-iterator/find.js1663598251306991033 0
-60/home/elson/work soni/forkify/src/js/views/paginationView.js1663686681808128454 0
+60/home/elson/work soni/forkify/src/js/views/paginationView.js1663762635575293924 0
 67/home/elson/work soni/forkify/node_modules/core-js/full/unescape.js1663598252011011228 0
 80/home/elson/work soni/forkify/node_modules/core-js/actual/number/to-precision.js1663598251927008819 0
 69/home/elson/work soni/forkify/node_modules/core-js/full/math/asinh.js1663598250910979673 0
@@ -6609,7 +6611,7 @@
 58/home/elson/work soni/forkify/forkify-flowchart-part-1.png1644221920000000000 0
 70/home/elson/work soni/forkify/node_modules/core-js/full/string/bold.js1663598250958981050 0
 71/home/elson/work soni/forkify/node_modules/core-js/full/string/small.js1663598251811005491 0
-52/home/elson/work soni/forkify/dist/index.e37f48ea.js1663688992550923395 0
+52/home/elson/work soni/forkify/dist/index.e37f48ea.js1663769351991469850 0
 72/home/elson/work soni/forkify/node_modules/core-js/full/string/strike.js1663598251847006524 0
 64/home/elson/work soni/forkify/node_modules/xxhash-wasm/README.md1663593887334515917 0
 78/home/elson/work soni/forkify/node_modules/@babel/highlight/node_modules/chalk1663593887174511862 1
@@ -6971,7 +6973,7 @@
 82/home/elson/work soni/forkify/node_modules/core-js/stable/string/virtual/anchor.js1663598250878978755 0
 97/home/elson/work soni/forkify/node_modules/core-js/internals/typed-array-from-species-and-list.js1663598252003010999 0
 87/home/elson/work soni/forkify/node_modules/core-js/stable/string/virtual/replace-all.js1663598251755003885 0
-56/home/elson/work soni/forkify/src/js/views/recipeView.js1663688844543013047 0
+56/home/elson/work soni/forkify/src/js/views/recipeView.js1663763220566021197 0
 85/home/elson/work soni/forkify/node_modules/core-js/stable/string/virtual/ends-with.js1663598251074984378 0
 83/home/elson/work soni/forkify/node_modules/core-js/stable/string/virtual/italics.js1663598251534997574 0
 86/home/elson/work soni/forkify/node_modules/core-js/stable/string/virtual/trim-start.js1663598251987010540 0
